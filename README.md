@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A MERN Stack developer from Bangladesh.
+  A MERN Stack Developer from Bangladesh.
 </p>
 
 <p align='center'>
@@ -34,4 +34,11 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+</p>
+
+---
+
+<h2 align="center">Visitor Count</h2>
+<p align="center">
+  <img align="center" alt="" width="40%" src="https://profile-counter.glitch.me/soykot2910/count.svg" />
 </p>
