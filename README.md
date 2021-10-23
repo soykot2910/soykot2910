@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A MERN Stack Developer from Bangladesh.
+  software Engineer | frontend  from Bangladesh.
 </p>
 
 <p align='center'>
