@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  software Engineer | frontend  from Bangladesh.
+  Software Engineer | frontend  from Bangladesh.
 </p>
 
 <p align='center'>
