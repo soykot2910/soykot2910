@@ -17,6 +17,18 @@
   
 </p>
 
+### I would like to introduce myself as a self taught 🎓 `Frontend Software Engineer` 💻 💻 💻 
+
+I always try to connect design with code and make something useful.  **`Having an open discussion on any tech topic with a cup of coffee`** ☕ is my all-time favorite 💜 💜 Wanna have a discussion with me? Let's connect 🚀 🚀 🚀
+
+## 📓 Some info about me
+
+* 🌱 I’m currently learning **Advance Topics of React, NextJS and Javascript**.
+* 👯 I’m looking to collaborate on any **JS/React related Open Source Project**.
+* 💬 Ask me about **JS, React, CSS related queestions**. I would be happy to share my knowledge.
+
+
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
