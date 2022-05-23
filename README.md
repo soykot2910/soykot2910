@@ -17,13 +17,13 @@
   
 </p>
 
-### I would like to introduce myself as a self taught 🎓 `Frontend Software Engineer` 💻 💻 💻 
+### I would like to introduce myself as a self taught  `Programmer` 💻 💻 💻 
 
 I always try to connect design with code and make something useful.  **`Having an open discussion on any tech topic with a cup of coffee`** ☕ is my all-time favorite 💜 💜 Wanna have a discussion with me? Let's connect 🚀 🚀 🚀
 
 ## 📓 Some info about me
 
-* 🔭 I am Currently working as **Frontend Developer at [NEXT Venture](https://wearenext.io/)**
+* 🔭 I am Currently working as **Frontend Developer at  [NEXT Venture](https://wearenext.io/)**
 * 🌱 I’m currently learning **Advance Topics of React, NextJS and Javascript**.
 * 👯 I’m looking to collaborate on any **JS/React related Open Source Project**.
 * 💬 Ask me about **JS, React, CSS related queestions**. I would be happy to share my knowledge.
