@@ -25,8 +25,8 @@ I always try to connect design with code and make something useful.  **`Having a
 
 * 💼 I am Currently working as **Frontend Developer at  [NEXT Venture](https://wearenext.io/)**
 * 🌱 I’m currently learning **Advance Topics of React, NextJS and Javascript**.
-* 👯 I’m looking to collaborate on any **JS/React related Open Source Project**.
-* 💬 Ask me about **JS, React, CSS related queestions**. I would be happy to share my knowledge.
+* 👯 I’m looking to collaborate on any **c++/JavaScript related Open Source Project**.
+* 💬 Ask me about **JavaScript, React, CSS related queestions**. I would be happy to share my knowledge.
 
 
 
