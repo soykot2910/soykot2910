@@ -23,7 +23,7 @@ I always try to connect design with code and make something useful.  **`Having a
 
 ## 📓 Some info about me
 
-* 💼 I am Currently working as **Frontend Developer at  [NEXT Venture](https://wearenext.io/)**
+* 💼 I am Currently working as **Software Engineer at  [NEXT Venture](https://wearenext.io/)**
 * 🌱 I’m currently learning **Advance Topics of React, NextJS and Javascript**.
 * 👯 I’m looking to collaborate on any **c++/JavaScript related Open Source Project**.
 * 💬 Ask me about **JavaScript, React, CSS related queestions**. I would be happy to share my knowledge.
